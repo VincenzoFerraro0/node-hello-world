@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "main": "./js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./js/index.js",
+    "watch": "node --watch ./js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincenzoFerraro0/node-hello-world.git"
+  },
+  "author": "Vincenzo Ferraro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincenzoFerraro0/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/VincenzoFerraro0/node-hello-world#readme",
+  "description": ""
+}
